@@ -26,7 +26,7 @@ If you have a suggestion for an app, please post in the [BigBearCommunity](https
 | ------------------------ | -------------- | ------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
 | 2fauth                   | 4.2.3          |                                                                                                                     |
 | Actual Budget            | 23.10.0        |                                                                                                                     |
-| AdGuard Home             | v0.107.39      | [YouTube Video](https://youtu.be/6cu0kfP50Jg)                                                                       |
+| AdGuard Home             | v0.107.39      | [YouTube Video](https://youtu.be/7NGnCbxBf_U)                                                                       |
 | Apache Guacamole         | latest         | [YouTube Video](https://youtu.be/6cu0kfP50Jg)                                                                       |
 | Appsmith                 | v1.9.42        |                                                                                                                     |
 | Baserow                  | 1.20.0         |                                                                                                                     |
